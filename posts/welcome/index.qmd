@@ -1,0 +1,10 @@
+---
+title: "Welcome to our blog"
+author: "Elvin Cordero"
+date: "2024-10-01"
+categories: [news]
+---
+
+This is the first post in the UPRM Marine Geology Lab blog. Welcome!
+
+![](dms.jpg)

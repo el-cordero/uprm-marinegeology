@@ -1,0 +1,105 @@
+---
+title: "Caribbean Marine Geology Data Sources"
+author: "Elvin Cordero"
+date: "2024-10-01"
+categories: [data, analysis, geological provinces, caribbean]
+image: "caribbean_dem.jpg"
+---
+
+Here is a comprehensive list of data sources for Caribbean geology and tectonics.
+
+---
+
+### **1. Caribbean GeoPortal**
+   - **Description**: A powerful geospatial platform providing access to a wide array of data sets related to geology, oceanography, and ecology in the Caribbean region. It is home to hundreds of ready to use datasets, some provided by Esri and others by users and Caribbean focused organizations. It includes options for visualizing and downloading data in multiple formats like GeoTIFF, KML, and shapefiles, useful for wide array of research topics from marine geology to demographics.
+   - **Link**: [Caribbean GeoPortal](https://www.caribbeangeoportal.com).
+   - **Key Features**: 
+     - Ecological and environmental data
+     - Bathymetry
+     - Demographic data
+
+---
+
+### **2. USGS Coastal and Marine Geology Program**
+   - **Description**: The USGS Coastal and Marine Geology Program offers data sets focused on marine and coastal geology in the Caribbean, including bathymetric maps, seismic profiles, and sedimentary data. This platform is essential for analyzing geological processes like tectonics, subduction, and sedimentation.
+   - **Link**: [USGS Coastal and Marine Geology Data Catalog](https://cmgds.marine.usgs.gov).
+   - **Key Features**: 
+     - Bathymetry
+     - Sedimentary and seismic data
+     - Tectonic activity around the Caribbean Plate
+
+---
+
+### **3. Caribbean and Central American Active Fault Database (CCAF-DB)**
+   - **Description**: A GIS-based database containing fault traces across the Caribbean and Central America by Styron, García-Pelaez, and Pagani (2020). It includes about 250 fault lines from Mexico to the Lesser Antilles.
+   - **Link**: [CCAF-DB](https://nhess.copernicus.org/articles/20/831/2020/).
+   - **Key Features**:
+     - Active fault data
+     - Seismic hazard analysis
+     - GIS-based fault mapping
+
+---
+
+### **4. Faults of the Caribbean Region (ScienceBase)**
+   - **Description**: This catalog provides detailed fault and structural data for the Caribbean region. It includes critical tectonic structures like the Puerto Rico Trench, the Cayman Trough, and the Oriente fault. Ideal for studying regional plate tectonics and fault activity.
+   - **Link**: [ScienceBase Catalog: Faults of the Caribbean Region (flt6bg)](https://www.sciencebase.gov/catalog/item/60a81702d34ea221ce4e5b49).
+   - **Key Features**:
+     - Fault lines
+     - Structural geology
+     - Tectonic boundary mapping
+
+---
+
+Here is a description of the requested source:
+
+### **5. Faults of the Caribbean Region (ScienceBase Catalog)**
+   - **Description**: This dataset focuses on the faults and structural features of the Caribbean region, providing critical data for analyzing tectonic activity, seismic hazards, and fault dynamics. It includes fault traces across major features such as the Puerto Rico Trench, Cayman Trough, and regional fault systems extending through the Greater and Lesser Antilles.
+   - **Link**: [ScienceBase Catalog - Faults of the Caribbean Region](https://www.sciencebase.gov/catalog/item/60abf6aad34ea221ce51f5f1)
+   - **Key Features**:
+     - Detailed fault mapping in the Caribbean region
+     - Structural geology and tectonic boundary data
+     - GIS-ready data for seismic hazard analysis and tectonic studies
+
+### **6. Preliminary Geologic Map of the Greater Antilles and Virgin Islands**
+   - **Description**: A comprehensive geological map of the Greater Antilles, including tectonic data, rock formations, and volcanic activity. This USGS report is highly detailed, covering areas like Cuba, Jamaica, Puerto Rico, and the Virgin Islands.
+   - **Link**: [USGS Geologic Map](https://pubs.usgs.gov).
+   - **Key Features**:
+     - Geological formations
+     - Volcanic and tectonic history
+     - Structural geology
+
+---
+
+### **7. Marine Geoscience Data System**
+   - **Description**: This platform provides marine geophysical data such as seismic reflection profiles, bathymetry, and magnetic data. It is particularly relevant for those researching tectonic activity, plate boundaries, and deep-sea geological features.
+   - **Link**: [Marine Geoscience Data System](https://www.marine-geo.org).
+   - **Key Features**:
+     - Seismic data
+     - Bathymetry and ocean floor mapping
+     - Geological features of the Caribbean Sea
+
+---
+
+### **8. Tectonic Plates GIS Data (Nordpil)**
+   - **Description**: Offers tectonic plate boundary data in GIS format, providing visualization of the Caribbean Plate's interaction with surrounding plates like the North American and South American plates.
+   - **Link**: [Nordpil Tectonic Plates Data](https://nordpil.com).
+   - **Key Features**:
+     - Global tectonic boundaries
+     - Plate interaction mapping
+     - Subduction and fault lines
+
+---
+
+### **9. USGS Caribbean Geological Map Service**
+   - **Description**: An interactive mapping service that allows users to explore geological data for the Caribbean region. It includes tectonic and structural features and offers downloadable geospatial data for use in GIS.
+   - **Link**: [USGS Map Service](https://certmapper.cr.usgs.gov/arcgis/rest/services/geology/caribbean/MapServer).
+   - **Key Features**:
+     - Geological and tectonic map layers
+     - Data available for GIS applications
+     - Real-time map service for geologic research
+
+---
+
+### Citations:
+Styron, R., García-Pelaez, J., and Pagani, M.: CCAF-DB: the Caribbean and Central American active fault database, Nat. Hazards Earth Syst. Sci., 20, 831–857, https://doi.org/10.5194/nhess-20-831-2020, 2020.
+
